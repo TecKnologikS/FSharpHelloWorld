@@ -1,0 +1,9 @@
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.XML
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\FSharp.Core.dll
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\FSharp.Core.xml
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\fr\FSharp.Core.resources.dll
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
